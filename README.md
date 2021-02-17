@@ -24,3 +24,5 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-ms
 **Georgia (GA):** https://unicourt.github.io/cic-code-ga
 
 **Arkansas (AR):** https://unicourt.github.io/cic-code-ar
+
+**Tennessee (TN):** https://unicourt.github.io/cic-code-tn
